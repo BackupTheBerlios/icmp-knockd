@@ -1,0 +1,22 @@
+2008-03-27 vaicebine@gmail.com
+	* Set default interface for icmp_knock to ppp0
+
+2008-03-14  vaicebine@gmail.com
+	* Set correct attributes of configuration file 
+	  in Make file
+
+2008-03-12  vaicebine@gmail.com
+	* Fix an icmp_knock client crash
+
+2008-03-11  vaicebine@gmail.com
+	* Code cleaning (need more)
+
+2008-03-07  vaicebine@gmail.com
+	* Fix an icmp_knock client crash
+	* Code cleaning (need more)
+
+2008-02-26  vaicebine@gmail.com
+	* Started ChangeLog
+
+
+
